@@ -1,5 +1,4 @@
 using RPG_Character_Sheets.Components;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -24,4 +23,5 @@ app.UseAntiforgery();
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
 //This is meant to help host the API on HTTP, currently provides error: builder.Services.AddHttpClient();
+
 app.Run();
