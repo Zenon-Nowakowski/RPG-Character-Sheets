@@ -1,0 +1,14 @@
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\bin\Debug\net8.0-windows\RPG-Character-Sheets.exe
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\bin\Debug\net8.0-windows\RPG-Character-Sheets.deps.json
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\bin\Debug\net8.0-windows\RPG-Character-Sheets.runtimeconfig.json
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\bin\Debug\net8.0-windows\RPG-Character-Sheets.dll
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\bin\Debug\net8.0-windows\RPG-Character-Sheets.pdb
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\RPG-Character-Sheets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\RPG-Character-Sheets.AssemblyInfoInputs.cache
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\RPG-Character-Sheets.AssemblyInfo.cs
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\RPG-Character-Sheets.csproj.CoreCompileInputs.cache
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\RPG-Character-Sheets.dll
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\refint\RPG-Character-Sheets.dll
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\RPG-Character-Sheets.pdb
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\RPG-Character-Sheets.genruntimeconfig.cache
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0-windows\ref\RPG-Character-Sheets.dll
