@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPG-Character-Sheets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+523848fa21af01a8eca1370861512f01827928a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+401ab074cc2b995cff81da056e7aa330d7eb7cc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPG-Character-Sheets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPG-Character-Sheets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
