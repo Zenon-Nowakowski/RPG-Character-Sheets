@@ -12,6 +12,11 @@ This is a web application for playing tabletop role-playing games (TRPGs) built 
 
 ## Getting Started
 
+1. Follow the Installation guide to access the app. 
+2. Once created and accessed on a browser of your choice, you can fill out attributes. 
+    1. [DEV_NOTE] Fill out with info on tabs as things are developed
+3. To save 
+
 ### Prerequisites
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download) installed
