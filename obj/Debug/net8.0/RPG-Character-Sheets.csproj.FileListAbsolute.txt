@@ -28,3 +28,4 @@ C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0\refint\RPG
 C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0\RPG-Character-Sheets.pdb
 C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0\RPG-Character-Sheets.genruntimeconfig.cache
 C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\obj\Debug\net8.0\ref\RPG-Character-Sheets.dll
+C:\Users\zenon\Documents\GitHub\RPG-Character-Sheets\bin\Debug\net8.0\John.json

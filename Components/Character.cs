@@ -1,8 +1,8 @@
-class Character
+public class Character
     {
-        string Name { get; set; }
-        int Level { get; set; }
-        public Character(string name, int level)
+        public string Name { get; set; }
+        public string Level { get; set; }
+        public Character(string name, string level)
         {
             Name = name;
             Level = level; 

@@ -2,22 +2,43 @@
 @rendermode InteractiveServer
 <PageTitle>Create</PageTitle>
 
-<h1>Create</h1>
+<h1>Character Creator</h1>
 
-<input type="text" bind="@name" />
-<button class="btn btn-primary" @onclick="save_locally">Create</button>
-<input type="dropdown" bind="@level" />
+<p>
+    <label>
+        <input @bind="Name" placeholder="Character Name" />
+    </label>
+    <label>
+        <input @bind="Level" placeholder="Character Level"/>
+    </label>
+</p>
+<button onclick="@Save">Save</button>
+
+<ul>
+    <li><code>Name</code>: @Name</li>
+    <li><code>Level</code>: @Level</li>
+</ul>
 
 @code {
+    private string? Name { get; set; }
 
-    string name;
-    int level;
-    
-    void save_locally()
+    private string? Level { get; set; }
+
+    private void Save()
     {
-
-        //Character player = new Character(name, level);
-        string jsonString = System.Text.Json.JsonSerializer.Serialize(name);
-        File.WriteAllText("Example", jsonString);
+        //Calling the character class in order to template schema 
+        Character temp = new Character(Name, Level);
+        //debugger shows that the temp object is being created correctly
+        temp.Print();
+        //converts the object to a json string
+        string jsonString = System.Text.Json.JsonSerializer.Serialize<Character>(temp);
+        //debugger shows that the jsonString is being created correctly
+        Console.WriteLine($"json string: {jsonString}");
+        //Create filename with character name, export to json file
+        string filename = temp.Name + ".json";
+        File.WriteAllText(filename, jsonString);
+        //Console log that it worked 
+        Console.WriteLine("Saved!");
     }
+    
 }
