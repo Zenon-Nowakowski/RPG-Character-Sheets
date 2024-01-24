@@ -2,13 +2,15 @@ public class Character
     {
         public string Name { get; set; }
         public string Level { get; set; }
-        public Character(string name, string level)
+        public string Char_Class { get; set; }
+        public Character(string name, string level, string char_class)
         {
             Name = name;
-            Level = level; 
+            Level = level;
+            Char_Class = char_class;
         }
         public void Print()
         {
-            Console.WriteLine($"Name: {Name}, Level: {Level}");
+            Console.WriteLine($"Name: {Name}, Level: {Level}, Class: {Char_Class}");
         }
     }

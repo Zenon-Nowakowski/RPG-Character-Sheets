@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B5qJT4Xlkws8WFdkM0uXJFEI6W7wJwlsaewKrva2z8A=",
+  "Hash": "FbpBbhvkHyTl2RbmNQqxslD7B7GMILvXR1oawDOiFRM=",
   "Source": "RPG-Character-Sheets",
   "BasePath": "_content/RPG-Character-Sheets",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RPG-Character-Sheets\\wwwroot",
       "Source": "RPG-Character-Sheets",
-      "ContentRoot": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
       "BasePath": "_content/RPG-Character-Sheets",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RPG-Character-Sheets.styles.css",
+      "Identity": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RPG-Character-Sheets.styles.css",
       "SourceId": "RPG-Character-Sheets",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RPG-Character-Sheets",
       "RelativePath": "RPG-Character-Sheets.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RPG-Character-Sheets.styles.css"
+      "OriginalItemSpec": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RPG-Character-Sheets.styles.css"
     },
     {
-      "Identity": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RPG-Character-Sheets.bundle.scp.css",
+      "Identity": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RPG-Character-Sheets.bundle.scp.css",
       "SourceId": "RPG-Character-Sheets",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/RPG-Character-Sheets",
       "RelativePath": "RPG-Character-Sheets.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RPG-Character-Sheets.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RPG-Character-Sheets.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\app.css",
       "SourceId": "RPG-Character-Sheets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
       "BasePath": "_content/RPG-Character-Sheets",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "RPG-Character-Sheets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
       "BasePath": "_content/RPG-Character-Sheets",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "RPG-Character-Sheets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
       "BasePath": "_content/RPG-Character-Sheets",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\favicon.png",
       "SourceId": "RPG-Character-Sheets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zenon\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zenon\\OneDrive\\Documents\\GitHub\\RPG-Character-Sheets\\wwwroot\\",
       "BasePath": "_content/RPG-Character-Sheets",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

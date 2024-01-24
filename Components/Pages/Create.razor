@@ -11,12 +11,16 @@
     <label>
         <input @bind="Level" placeholder="Character Level"/>
     </label>
+    <label>
+        <input @bind="Char_Class" placeholder="Character Class"/>
+    </label>
 </p>
 <button onclick="@Save">Save</button>
 
 <ul>
     <li><code>Name</code>: @Name</li>
     <li><code>Level</code>: @Level</li>
+    <li><code>Class</code>: @Char_Class</li>
 </ul>
 
 @code {
@@ -24,11 +28,13 @@
 
     private string? Level { get; set; }
 
+    private string? Char_Class { get; set; }
+
     private void Save()
     {
         //Calling the character class in order to template schema 
-        Character temp = new Character(Name, Level);
-        //debugger shows that the temp object is being created correctly
+        Character temp = new Character(Name, Level, Char_Class);
+        //debugger shows that the temp object is being created correctly, 
         temp.Print();
         //converts the object to a json string
         string jsonString = System.Text.Json.JsonSerializer.Serialize<Character>(temp);
